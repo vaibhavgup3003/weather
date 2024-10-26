@@ -1,5 +1,6 @@
 
-# [Real-Time Weather Monitoring Application](https://weatherupdate.streamlit.app)     (This contains the demo link of the app hosted on streamlit cloud)
+# [Real-Time Weather Monitoring Application](https://weatherupdate.streamlit.app)     
+(This contains the demo link of the app hosted on streamlit cloud)
 
 
 This application is designed to monitor weather conditions across major metro cities in India, providing real-time data, daily summaries, and alert notifications. Built using Python and Streamlit, it leverages the OpenWeatherMap API to fetch live data and visualizes daily weather trends, complete with temperature bounds and condition alerts.
