@@ -55,7 +55,7 @@ def fetch_weather(city):
 metro_cities = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 
 # This will refresh the page every 60 seconds
-update_interval_ms = 10 * 1000
+update_interval_ms = 300 * 1000
 st_autorefresh(interval=update_interval_ms, key="data_refresh")
 
 # Add print statements to indicate refresh
